@@ -382,7 +382,9 @@ Dashboard complexity	Used Power BI slicers and drill-through
 Data integration	Designed a structured SQLite database
 
 
-📁 Project Structure
+## 📁 Project Structure
+
+```text
 Mutual-Fund-Analytics/
 │
 ├── data/
@@ -408,6 +410,7 @@ Mutual-Fund-Analytics/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ▶️ How to Run the Project
 Step 1: Clone the Repository
