@@ -181,6 +181,7 @@ fact_transactions
 fact_aum
 
 Database Architecture
+```text
                     ┌──────────────┐
                     │   dim_fund   │
                     └──────┬───────┘
@@ -196,6 +197,7 @@ Database Architecture
                   ┌──────────────────┐
                   │fact_transactions │
                   └──────────────────┘
+```
 
 This database structure enables efficient analytical queries and provides a clean foundation for Power BI reporting.
 📈 Exploratory Data Analysis
