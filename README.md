@@ -130,6 +130,8 @@ Visualization & Business Intelligence
 Development Environment
 - Jupyter Notebook
 - Visual Studio Code
+
+
 🔄 ETL Pipeline
 The project follows an Extract → Transform → Load architecture.
 1. Extract
